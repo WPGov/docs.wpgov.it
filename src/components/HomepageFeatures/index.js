@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Documentazione libera e costantemente aggiornata. Come le soluzioni WPGov.it!
+        Documentazione in costante aggiornamento e soluzioni aggiornate.
       </>
     ),
   },
@@ -17,16 +17,16 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Tramite il supporto (wordpress.org, github.com) puoi segnalare problemi e chiedere supporto.
+        Diversi canali di supporto a tua disposizione (GitHub, WordPress).
       </>
     ),
   },
   {
-    title: 'Supporto premium',
+    title: 'Soluzioni su misura',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Contattaci senza impegno per qualsiasi valutazione, supporto e personalizzazione su misura.
+        Contattaci per una consulenza personalizzata, senza impegno.
       </>
     ),
   },
