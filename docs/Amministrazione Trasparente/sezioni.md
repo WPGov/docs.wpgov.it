@@ -1,4 +1,4 @@
-# Personalizza la struttura
+# Personalizza struttura
 
 Dalla versione 8.x è possibile modificare facilmente le tipologie gestite dal plugin all'interno delle sezioni predefinite.
 
